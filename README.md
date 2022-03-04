@@ -1,5 +1,5 @@
 # SCAMP(s)
-##### SmartCard Password And Memo (storage)
+##### SmartCard Advanced Memo / Password (storage)
 
 ## What is this?
 > This project was created, as I am working in Cryptography and co.
@@ -43,12 +43,12 @@
 > 
 > On the next start of the program, follow the same instructions.
 > 
-> _(__DO NOT__ forget to click decrypt first, otherwise ur precious stuff gone)_
+> _(__DO NOT__ forget to click decrypt first, otherwise ur precious stuff's gone)_
 
 ## A small closing statement
 > * This mald-fest is provided as is.
 > * I take no responsibility, if SCAMP(s) fucks up the Data you have saved within it.
 > * Feel free to use any of the code in SCAMP(s) if you want to
-> * _(please Credit me if you actually use some of this code_ :point_right::point_left:_)_
+> * _(Please credit me if you actually use some of this code_ :point_right::point_left:_)_
 
 #### So hell yeah, I'm out and enjoy SCAMP(s)!
